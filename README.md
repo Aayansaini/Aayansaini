@@ -1,1 +1,21 @@
-<h1> I'm Lawda </h1>
+<h1 align="center"> Hey'ya! I'm Aayan Saini</h1>
+<h3 align="center">A passionate Web Developerr</h3>
+
+- 🌱 I’m a *Front-end Developer* with strong programming and coding skills.
+
+- 🎯 AIM -> *MERN STACK* and Cloud Computing.
+
+- 👯 I’m looking to collaborate on *Web Dev.*
+
+- 💬 Ask me about *Frontend Development, MERN Stack*
+
+- 📫 How to reach me *aayansaini960@gmail.com*
+
+- ⚡ Fun fact *“ Code is like humor. When you have to explain it, it’s bad.”*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aayan-saini/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"" alt="https://www.linkedin.com/in/gautam-sharma33/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/futuristic_gaut1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/futuristic_gaut1" height="30" width="40" /></a>
+</p>
+
