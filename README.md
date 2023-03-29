@@ -21,4 +21,6 @@
 </p>
 </br>
 <h1>INTRODUCTION :- </h1>
-    <p>Welcome to my Github profile! I'm glad you're here. My profile is dedicated to showcasing my work and sharing my knowledge and experience in coding. Feel free to explore my repositories and leave feedback or follow me to stay up to date on my latest projects. Thanks for visiting!</p>
+    <p>Welcome to my Github profile! I'm glad you're here. My profile is dedicated to showcasing my work and sharing my knowledge and experience in coding. Feel free to explore my repositories and leave feedback or follow me to stay up to date on my latest projects.</p>
+    
+<h2> Thanks for visiting!😀 </h2>
