@@ -15,12 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aayan-saini/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/null/linkedin.png" alt="https://www.linkedin.com/in/gautam-sharma33/" height="100px width="100px"/></a>
+<a href="https://www.linkedin.com/in/aayan-saini/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/null/linkedin.png" alt="https://www.linkedin.com/in/gautam-sharma33/" height="100px" width="100px"/></a>
 <a href="https://www.codechef.com/users/aayan_6154" target="blank"><img align="center" src="https://img.icons8.com/plasticine/400/null/codechef.png" alt="https://www.codechef.com/users/aayan_6154"/ height="100px width="100px"></a>
   <a href="https://discord.gg/ReGxdzQc5n" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/null/discord-logo.png" alt="https://discord.gg/ReGxdzQc5n"/ height="100px width="100px"></a>
 </p>
 
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/null/external-icons-computer-programming-icons-flaticons-lineal-color-flat-icons.png"/>
-    
-<h1>INTRODUCTION :- </h1>
+<h1>INTRODUCTION :- <img height="100px width="100px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/null/external-icons-computer-programming-icons-flaticons-lineal-color-flat-icons.png" /> </h1>
     <p>Welcome to my Github profile! I'm glad you're here. My profile is dedicated to showcasing my work and sharing my knowledge and experience in coding. Feel free to explore my repositories and leave feedback or follow me to stay up to date on my latest projects. Thanks for visiting!</p>
