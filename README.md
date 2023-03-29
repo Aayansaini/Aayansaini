@@ -19,4 +19,4 @@
 <a href="https://www.codechef.com/users/aayan_6154" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/null/codechef.png" alt="https://www.codechef.com/users/aayan_6154" height="30" width="40" /></a>
 </p>
 
-<h5>Introduction:- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-icons-computer-programming-icons-flaticons-lineal-color-flat-icons.png">h5/>
+<img height="500px" width="500px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-icons-computer-programming-icons-flaticons-lineal-color-flat-icons.png">
