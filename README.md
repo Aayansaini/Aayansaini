@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aayan-saini/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/null/linkedin.png" alt="https://www.linkedin.com/in/gautam-sharma33/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aayan_6154" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/null/codechef.png" alt="https://www.codechef.com/users/aayan_6154" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aayan-saini/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/400/null/linkedin.png" alt="https://www.linkedin.com/in/gautam-sharma33/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aayan_6154" target="blank"><img align="center" src="https://img.icons8.com/plasticine/400/null/codechef.png" alt="https://www.codechef.com/users/aayan_6154" height="30" width="40" /></a>
 </p>
 
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/null/external-icons-computer-programming-icons-flaticons-lineal-color-flat-icons.png"/>
