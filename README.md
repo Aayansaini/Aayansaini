@@ -1,5 +1,5 @@
-<h1 align="center"> Hey! I'm Aayan Saini</h1>
-<h3 align="center">A passionate Frontend Engineer.</h3>
+<h1  font-family="cursive"> Hey! I'm Aayan Saini</h1>
+<h3>A passionate Frontend Engineer.</h3>
 
 - 🌱 I’m a *Front-end Developer* with strong programming and coding skills.
 
