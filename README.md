@@ -1,5 +1,5 @@
-<h1 align="center"> Hey'ya! I'm Aayan Saini</h1>
-<h3 align="center">A passionate Web Developerr</h3>
+<h1 align="center"> Hey! I'm Aayan Saini</h1>
+<h3 align="center">A passionate Frontend Engineer.</h3>
 
 - 🌱 I’m a *Front-end Developer* with strong programming and coding skills.
 
@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on *Web Dev.*
 
-- 💬 Ask me about *Frontend Development, MERN Stack*
+- 💬 Ask me about *Frontend Development*
 
-- 📫 How to reach me *aayansaini960@gmail.com*
+- 📫 How to reach me -> *aayansaini960@gmail.com*
 
-- ⚡ Fun fact *“ Code is like humor. When you have to explain it, it’s bad.”*
+- ⚡ Fun fact *“ Code is like humor. Everyone should learn how to code, it teaches you how to think.”*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
