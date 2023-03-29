@@ -1,4 +1,4 @@
-<h1 align="center" font-family="cursive"> Hey! I'm Aayan Saini</h1>
+<h1 align="center" font-family="cursive"> Hey!👋I'm Aayan Saini</h1>
 <h3 align="center" font-family="cursive">A passionate Frontend Engineer.</h3>
 </br>
 
