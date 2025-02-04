@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/YOUR-USERNAME" target="_blank">Your Name</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/YOUR-Aayansaini" target="_blank">Aayan Saini</a> 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | Open Source Contributor | Cloud Enthusiast</h3>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ## 📌 Featured Projects  
 <table>
   <tr>
-    <td><b>🚀 <a href="https://github.com/YOUR-USERNAME/Project-1">Project 1</a></b><br>Modern web app with Next.js & Tailwind</td>
-    <td><b>🌟 <a href="https://github.com/YOUR-USERNAME/Project-2">Project 2</a></b><br>AI chatbot powered by OpenAI API</td>
-    <td><b>💡 <a href="https://github.com/YOUR-USERNAME/Project-3">Project 3</a></b><br>Interactive analytics dashboard</td>
+    <td><b>🚀 <a href="https://github.com/GHAR_DEKHO/Project-1">GHAR_DEKHO</a></b><br>Modern web app with Next.js & Tailwind</td>
+    <td><b>🌟 <a href="https://github.com/MEHPRIYA/Project-2">MEHPRIYA</a></b><br>AI chatbot powered by OpenAI API</td>
+    <td><b>💡 <a href="https://github.com/DOGFIT/Project-3">DOGFIT</a></b><br>Interactive analytics dashboard</td>
   </tr>
 </table>
 
@@ -48,9 +48,9 @@
 ---
 
 ## 🌎 Socials & Contact  
-💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/YOUR-USERNAME)  
-💻 **Portfolio:** [Your Website](https://your-portfolio.com)  
-📧 **Email:** your.email@example.com  
+💼 **LinkedIn:** [Your Profile](www.linkedin.com/in/aayan-saini)  
+💻 **Portfolio:** [Your Website](https://github.com/Aayansaini)  
+📧 **Email:** sainiaayan857@gmail.com  
 
 ---
 
