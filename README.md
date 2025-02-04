@@ -1,33 +1,71 @@
-<h1 align="center" font-family="cursive"> Hey!👋I'm Aayan Saini</h1>
-<h3 align="center" font-family="cursive">A passionate Frontend Engineer.</h3>
-</br>
+<h1 align="center">Hi there, I'm <a href="https://github.com/YOUR-USERNAME" target="_blank">Your Name</a> 👋</h1>
+<h3 align="center">🚀 Full Stack Developer | Open Source Contributor | Cloud Enthusiast</h3>
 
-- 🌱 I’m a *Front-end Developer* with strong programming and coding skills.
-
-- 🎯 AIM -> *MERN STACK* and Cloud Computing.
-
-- 👯 I’m looking to collaborate on *Web Dev.*
-
-- 💬 Ask me about *Frontend Development*
-
-- 📫 How to reach me -> *aayansaini960@gmail.com*
-
-- ⚡ Fun fact *“ Code is like humor. Everyone should learn how to code, it teaches you how to think.”*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aayan-saini/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/null/linkedin.png" alt="https://www.linkedin.com/in/gautam-sharma33/" height="100px" width="100px"/></a>
-<a href="https://www.codechef.com/users/aayan_6154" target="blank"><img align="center" src="https://img.icons8.com/plasticine/400/null/codechef.png" alt="https://www.codechef.com/users/aayan_6154"/ height="100px width="100px"></a>
-  <a href="https://discord.gg/ReGxdzQc5n" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/null/discord-logo.png" alt="https://discord.gg/ReGxdzQc5n"/ height="100px width="100px"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Building+awesome+projects!;Open+Source+Contributor!;Exploring+Cloud+Computing!;Always+learning+new+techs!" />
 </p>
 
- <p>Welcome to my Github profile! I'm glad you're here. My profile is dedicated to showcasing my work and sharing my knowledge and experience in coding. Feel free to explore my repositories and leave feedback or follow me to stay up to date on my latest projects.</p>
- 
-</br>
+---
 
-<h1>INTRODUCTION :- </h1>
+## 🔥 About Me  
+- 🚀 **Passionate Full Stack Developer & Open Source Contributor**  
+- 💡 Currently working with **MERN, DevOps, and Cloud Technologies**  
+- 💻 Exploring **Kubernetes, Terraform, and AI-driven projects**  
+- 🌍 Sharing knowledge through **Tech Blogs & GitHub Contributions**  
 
-<p>I’m a new web developer with an experience of over 2-3 number of websites which are currently in operation accompanied by blog post. I learn to code by developing some websites for experience. Also I am pursuing BCA from Commerce College- RAJ successfully completed the learning of first yerar now in Second year. Further more I will be manoeuvring my skill during the completion of graduation by working on my coding and web development on daily basis. Soon I will be implementing my learning to generate revenues. Currently in the process of enhancing my learning on Data Structure, Algorithms and Coding so that more finel results could be generated . 
-Looking for an internship opportunity to help me condition and refine my skills.</p>
+---
 
-<h2> Thanks for visiting!😀 </h2>
+## 📌 Featured Projects  
+<table>
+  <tr>
+    <td><b>🚀 <a href="https://github.com/YOUR-USERNAME/Project-1">Project 1</a></b><br>Modern web app with Next.js & Tailwind</td>
+    <td><b>🌟 <a href="https://github.com/YOUR-USERNAME/Project-2">Project 2</a></b><br>AI chatbot powered by OpenAI API</td>
+    <td><b>💡 <a href="https://github.com/YOUR-USERNAME/Project-3">Project 3</a></b><br>Interactive analytics dashboard</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+## 💡 Tech Stack  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+
+---
+
+## 🌎 Socials & Contact  
+💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/YOUR-USERNAME)  
+💻 **Portfolio:** [Your Website](https://your-portfolio.com)  
+📧 **Email:** your.email@example.com  
+
+---
+
+## 💡 Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## ⚡ Latest GitHub Activity  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=radical" />
+</p>
+
+---
+
+🔥 _"Code. Create. Contribute. 🚀"_  
