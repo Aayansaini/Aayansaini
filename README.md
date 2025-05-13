@@ -13,7 +13,7 @@
 - 🔭 Currently working on: **CricPulse – Live Cricket Score App**
 - 🌱 Learning: **Next.js**, **Docker**, **System Design**, **CI/CD**
 - 🛠️ Interested in building: Real-time dashboards, APIs, and dev tools
-- 📫 Reach me at: [aayansaini@email.com](mailto:aayansaini@email.com)
+- 📫 Reach me at: [aayansaini960@email.com](mailto:aayansaini960@gmail.com)
 
 ---
 
@@ -50,10 +50,10 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/aayansaini">
+  <a href="https://www.linkedin.com/in/aayan-saini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
-  <a href="mailto:aayansaini@email.com">
+  <a href="mailto:aayansaini960@egmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AayanSaini">
