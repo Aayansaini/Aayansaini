@@ -34,21 +34,16 @@
 
 ---
 
-### 🔥 Streak Stats
+### 🎮 Fun Features Just for You
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AayanSaini&theme=nightowl&hide_border=true"/>
+  <img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="250" />
 </p>
 
----
-
-### 🎯 Featured Project
-
-<p align="center">
-  <a href="https://github.com/HarshCodeCraft21/cricpulse.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshCodeCraft21&repo=cricpulse&theme=radical" />
-  </a>
-</p>
+- 🕹️ I enjoy turning code into **playful experiences**.
+- 🧠 My favorite debugging technique? **Ctrl + Z and pray.**
+- 🎯 Gaming mindset helps me **level up logic + focus** in coding!
+- 🚀 Let’s play with tech, not fight it. Code smarter, not harder.
 
 ---
 
